@@ -5,7 +5,7 @@ Task 1 - Verify user account
 Task 2 - Verify that user should be capable of running PowerShell/CloudShell
 
 Task 3 - Has user been compromised externally? (HaveIBeenPwned)
-Playbook: https://github.com/rod-trent/SentinelPlaybooks/tree/master/HaveIBeenPwned-Email
+[Playbook:] (https://github.com/rod-trent/SentinelPlaybooks/tree/master/HaveIBeenPwned-Email)
 
 Task 4 - Identify IP address
 
