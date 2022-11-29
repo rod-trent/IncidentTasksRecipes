@@ -1,5 +1,5 @@
 # IncidentTasksRecipes
-Microsoft Sentinel Incident Tasks Recipes
+# Microsoft Sentinel Incident Tasks Recipes
 
 This repository is intended to house common ways to respond to specific Microsoft Sentinel Incidents utilizing the Incidents Tasks feature.
 
