@@ -2,7 +2,7 @@
 
 This repository is intended to house common ways to respond to specific Microsoft Sentinel Incidents utilizing the Incidents Tasks feature.
 
-Incident Tasks resources:
+[b]Learn about Incident Tasks:[/b]
 
 Use tasks to manage incidents in Microsoft Sentinel https://rodtrent.com/lgl
 
