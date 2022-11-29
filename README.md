@@ -23,3 +23,9 @@ This repository is intended to house common ways to respond to specific Microsof
 * Password spray investigation: https://rodtrent.com/tna
 
 * App consent grant investigation: https://rodtrent.com/rdx
+
+* Compromised and malicious applications investigation: https://rodtrent.com/ihj
+
+* Microsoft DART ransomware approach and best practices: https://rodtrent.com/xjt
+
+* Responding to ransomware attacks: https://rodtrent.com/ira
