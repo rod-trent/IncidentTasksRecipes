@@ -9,3 +9,5 @@ Task 3 - Has user been compromised externally? (HaveIBeenPwned)
 Task 4 - Identify IP address
 
 Task 5 - Verify IP address ownership, location
+
+Task 6 - If local PowerShell, verify process and script
